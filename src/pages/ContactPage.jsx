@@ -60,7 +60,7 @@ const Contact = () => {
             <div className="flex flex-col gap-4">
               <div className="flex items-center gap-4 bg-[#1a1a1a] p-4 rounded-lg w-full">
                 <Mail className="text-gray-400" />
-                <span className="text-gray-300">skshamagarwal@gmail.com</span>
+                <span className="text-gray-300">theravindarav@gmail.com</span>
               </div>
               <div className="flex items-center gap-4 bg-[#1a1a1a] p-4 rounded-lg w-full">
                 <Linkedin className="text-gray-400" />
@@ -68,7 +68,7 @@ const Contact = () => {
               </div>
               <div className="flex items-center gap-4 bg-[#1a1a1a] p-4 rounded-lg w-full">
                 <MapPin className="text-gray-400" />
-                <span className="text-gray-300">Santacruz, Mumbai - India</span>
+                <span className="text-gray-300">Tamil Nadu - India</span>
               </div>
             </div>
           </div>
