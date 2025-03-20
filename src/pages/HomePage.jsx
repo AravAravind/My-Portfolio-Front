@@ -41,14 +41,14 @@ export default function HomePage() {
         {/* Social Links */}
         <div className="flex space-x-6 mt-6">
           <a
-            href="https://github.com/yourgithub"
+            href="https://github.com/AravAravind"
             target="_blank"
             className="text-gray-400 hover:text-white text-3xl transition-transform transform hover:scale-110"
           >
             <FaGithub />
           </a>
           <a
-            href="https://linkedin.com/in/yourlinkedin"
+            href="https://linkedin.com/in/arav-r"
             target="_blank"
             className="text-gray-400 hover:text-white text-3xl transition-transform transform hover:scale-110"
           >
